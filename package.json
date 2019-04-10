@@ -1,6 +1,6 @@
 {
   "name": "generatepk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate random id",
   "main": "index.js",
   "author": "godkill",
