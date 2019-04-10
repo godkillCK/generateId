@@ -1,0 +1,14 @@
+{
+  "name": "generateid",
+  "version": "1.0.0",
+  "description": "generate random id",
+  "main": "index.js",
+  "author": "godkill",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
